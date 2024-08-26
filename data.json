@@ -1,0 +1,15 @@
+[
+    { 
+    "nombre": "Luis", 
+    "cedula": "1003436009", 
+    "fecha_nacimiento": "1998-06-11", 
+    "estatura": 1.81 
+  }
+  ,
+  { 
+    "nombre": "jose", 
+    "cedula": "1002384892", 
+    "fecha_nacimiento": "2000-01-21", 
+    "estatura": 1.80 
+  }
+]
